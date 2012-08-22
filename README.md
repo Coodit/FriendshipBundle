@@ -1,6 +1,9 @@
 SlyFriendshipBundle
 ====================
 
+# NOT USABLE, WORK IN PROGRESS.
+====================
+
 [![Continuous Integration status](https://secure.travis-ci.org/Slynett/FriendshipBundle.png)](http://travis-ci.org/Slynett/FriendshipBundle)
 
 This bundle allows you to build and manage friendships between your project users.

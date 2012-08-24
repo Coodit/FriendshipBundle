@@ -1,4 +1,4 @@
-SlyFriendshipBundle
+CooFriendshipBundle
 ====================
 
 # NOT USABLE, WORK IN PROGRESS.

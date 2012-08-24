@@ -4,15 +4,15 @@ SlyFriendshipBundle
 # NOT USABLE, WORK IN PROGRESS.
 ====================
 
-[![Continuous Integration status](https://secure.travis-ci.org/Slynett/FriendshipBundle.png)](http://travis-ci.org/Slynett/FriendshipBundle)
+[![Continuous Integration status](https://secure.travis-ci.org/Coodit/FriendshipBundle.png)](http://travis-ci.org/Coodit/FriendshipBundle)
 
 This bundle allows you to build and manage friendships between your project users.
 
-**You are of course invited to [contribute](https://github.com/Slynett/FriendshipBundle/contributors) to this bundle! :)**
+**You are of course invited to [contribute](https://github.com/Coodit/FriendshipBundle/contributors) to this bundle! :)**
 
 ## Documentation
 
-- **[Read Documentation](https://github.com/Slynett/FriendshipBundle/blob/master/Resources/doc/index.markdown)** (soon)
+- **[Read Documentation](https://github.com/Coodit/FriendshipBundle/blob/master/Resources/doc/index.markdown)** (soon)
 
 ## License
 

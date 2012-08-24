@@ -15,4 +15,3 @@ before_script:
 notifications:
   email:
     - ph3@slynett.com
-    - florent.mondoloni@gmail.com

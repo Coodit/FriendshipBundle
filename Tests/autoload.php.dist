@@ -4,7 +4,7 @@ $vendorDir = __DIR__.'/../vendor';
 require_once $vendorDir.'/autoload.php';
 
 spl_autoload_register(function($class) {
-    if (0 === strpos($class, 'Sly\\FriendshipBundle\\')) {
+    if (0 === strpos($class, 'Coo\\FriendshipBundle\\')) {
         $path = __DIR__.'/../'.implode('/', array_slice(explode('\\', $class), 2)).'.php';
         if (!stream_resolve_include_path($path)) {
             return false;

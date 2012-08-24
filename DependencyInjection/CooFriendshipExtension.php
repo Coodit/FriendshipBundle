@@ -1,6 +1,6 @@
 <?php
 
-namespace Sly\FriendshipBundle\DependencyInjection;
+namespace Coo\FriendshipBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;
@@ -13,7 +13,7 @@ use Symfony\Component\DependencyInjection\Loader;
  * @uses Extension
  * @author Cédric Dugat <ph3@slynett.com>
  */
-class SlyFriendshipExtension extends Extension
+class CooFriendshipExtension extends Extension
 {
     /**
      * {@inheritdoc}
@@ -30,6 +30,6 @@ class SlyFriendshipExtension extends Extension
 
         /* --- Configuration management and overloads --- */
 
-        $container->setParameter('sly_friendship.config', $configuration);
+        $container->setParameter('coo_friendship.config', $configuration);
     }
 }
